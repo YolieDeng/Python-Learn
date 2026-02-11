@@ -3,7 +3,7 @@
 
 参考项目：https://github.com/taizilongxu/interview_python.git
 
-   * [Python语言特性![img.png](img.png)](#python语言特性)
+   * [Python语言特性!](#python语言特性)
       * [1 Python的函数参数传递](#1-python的函数参数传递)
       * [2 Python中的元类(metaclass)](#2-python中的元类metaclass)
       * [3 @staticmethod和@classmethod](#3-staticmethod和classmethod)
